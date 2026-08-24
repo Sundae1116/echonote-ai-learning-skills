@@ -1,0 +1,4 @@
+interface:
+  display_name: "Course Knowledge Distiller"
+  short_description: "Create faithful summaries and study translations"
+  default_prompt: "Turn this course transcript and its user-marked highlights into a faithful, structured, review-ready knowledge artifact."

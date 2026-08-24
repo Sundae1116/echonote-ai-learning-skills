@@ -1,0 +1,4 @@
+interface:
+  display_name: "Desktop Course Transcriber"
+  short_description: "Build reliable local course transcription workflows"
+  default_prompt: "Design or troubleshoot a privacy-first desktop course transcription pipeline with explicit reliability and packaging checks."

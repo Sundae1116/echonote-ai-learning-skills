@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spaced Review Designer"
+  short_description: "Design active recall, scheduling, and progress feedback"
+  default_prompt: "Turn structured learning content into complete recall cards, explainable answer feedback, and a visible spaced-review progress loop."

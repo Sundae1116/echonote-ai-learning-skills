@@ -1,6 +1,6 @@
 # EchoNote AI Learning Skills
 
-Reusable Codex skills distilled from building **EchoNote**, a privacy-first Windows learning companion that turns desktop course audio into transcripts, structured knowledge, translations, and spaced review.
+Reusable Codex skills distilled from building **EchoNote 3.0**, a privacy-first Windows learning companion that turns desktop course audio into transcripts, structured knowledge, translations, and spaced review while keeping local data portable.
 
 ## Skills
 
@@ -9,6 +9,7 @@ Reusable Codex skills distilled from building **EchoNote**, a privacy-first Wind
 | `desktop-course-transcriber` | Local system-audio capture, ASR lifecycle, recovery, transcript quality, and packaged-runtime validation |
 | `course-knowledge-distiller` | Faithful summaries, long-course chunking, study translation, prompt contracts, and output evaluation |
 | `spaced-review-designer` | Complete recall cards, learner answer comparison, spaced scheduling, and visible learning outcomes |
+| `local-data-portability` | Safe backup, import/export, storage-location changes, atomic migration, rollback, and upgrade compatibility |
 
 ## Install
 
@@ -27,6 +28,7 @@ Each skill is intentionally independent. Install only the capability your workfl
 - Keep humans in control of source correction, highlights, mastery judgments, and cloud transmission.
 - Define quality with measurable dimensions rather than “looks good.”
 - Test the packaged artifact, not only the development environment.
+- Treat a storage-location change as a verified migration transaction, not a settings-field update.
 
 ## Privacy and scope
 

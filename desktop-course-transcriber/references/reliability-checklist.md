@@ -8,6 +8,7 @@
 - Finish flushes the final PCM buffer and waits for queued transcription.
 - Delete cancels pending work so results cannot leak into the next course.
 - Restart restores transcript, highlights, title, and elapsed time.
+- The displayed timer freezes while paused and resumes from accumulated active time.
 
 ## ASR quality
 
@@ -22,3 +23,4 @@
 - Verify packaged native libraries are unpacked when required.
 - Run syntax, workflow, migration, DOM, and packaged-runtime smoke tests.
 - Test first-model download, offline reuse, proxy behavior, mirror fallback, and retry messaging.
+- Verify custom data locations after restart and upgrade; active capture must block location changes.

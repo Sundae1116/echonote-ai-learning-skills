@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Data Portability"
+  short_description: "Safe local backup, migration, and storage-location changes"
+  default_prompt: "Use $local-data-portability to design or audit an atomic, upgrade-safe local data migration workflow."
